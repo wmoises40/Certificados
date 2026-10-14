@@ -2,4 +2,4 @@
 
 - Desarrollo de aplicaciones con IA
 - Nivel de Inglés
-- Ciberseguridad (Fundamentos, un poco de ofensiva)
+- Ciberseguridad (Fundamentos, SOC L1, un poco de ofensiva)
