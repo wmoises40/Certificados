@@ -1,4 +1,4 @@
-# Certificados
+# Certificaciones
 
 - Desarrollo de aplicaciones con IA
 - Nivel de Inglés
